@@ -1,0 +1,1311 @@
+.顶部标签栏{
+    width: 1840px;
+    height: 35px;
+    background: #F5F5F5;
+    position: relative;
+    top: -6px;
+    right:8px;
+}
+.顶部标签栏文字{
+    font-size: 15px;
+    font-family: 微软雅黑;
+}
+.顶部左边边距{
+    width: 1000px;
+    position: relative;
+    top:8px;
+    left: 400px;
+}
+.顶部右边边距{
+    position: relative;
+    left: 300px;
+}
+.顶部log{
+    width: 1840px;
+    height: 72px;
+    background-color: darkgray;
+    padding: 28px 0px 16px;
+    margin-top: 28px;
+}
+.淘宝log{
+    width: 140px;
+    height: 59px;
+    background:url("../image/淘宝log.png");
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.搜索框{
+    width: 1200px;
+    height: 44px;
+    border: 3px solid #ff5000;
+    position: absolute;
+    left:350px;
+    top: 100px;
+    border-radius: 14px;
+}
+.宝贝{
+    width: 64px;
+    height: 38px;
+    position: relative;
+    top: 8px;
+    left: 13px;
+    color: #3c3c3c;
+}
+.搜索框字{
+    width: 810px;
+    height: 38px;
+    color: #3c3c3c;
+    position: relative;
+    left: 70px;
+    top: -35px;
+}
+.框内字体{
+    width: 50px;
+    height: 35px;
+    position: relative;
+    top: 6px;
+}
+.搜索边{
+    width: 85px;
+    height: 40px;
+    position: relative;
+    left: 1040px;
+    background-color: #ff5000;
+    color:#ffffff;
+    border-radius: 7px;
+    font-size: 22px;
+    top: -36px;
+    text-align: center;
+
+}
+.搜索{
+    position: relative;
+    top: 4px;
+}
+.搜索框下字体{
+    width: 865px;
+    height: 18px;
+    position: relative;
+    top: -30px;
+    right: 40px;
+}
+.主题内容{
+    width: 1658px;
+    height: 430px;
+    position: relative;
+    top: 40px;
+    left: 80px;
+    background-color: white;
+    border-radius: 20px;
+}
+.分类{
+    width: 240px;
+    height: 384px;
+    background-color: darkgray;
+    position: relative;
+    top: 25px;
+    left: 20px;
+    border-radius: 20px;
+}
+.分类字{
+    width: 230px;
+    height: 35px;
+    ;
+    position: relative;
+    top: 10px;
+    left: 4px;
+    font-size: 25px;
+}
+/*.NEW{*/
+/*    width: 70px;*/
+/*    height: 32px;*/
+/*    background-color: #3c3c3c;*/
+/*    position: relative;*/
+/*    top: 37px;*/
+/*    left: 60px;*/
+/*    background: url("../image/O1CN01LnD9vL1PwXRhoytJA_!!6000000001905-2-tps-70-32.png");*/
+/*}*/
+.分类第1行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第2行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第3行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第4行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第5行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第6行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第7行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第8行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第9行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.分类第10行{
+    width: 220px;
+    height: 30px;
+    background-color: white;
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+.文本居中{
+    text-align: center;
+}
+.分类顶部行{
+    width: 1090px;
+    height: 38px;
+    background-color: darkgray;
+    position: relative;
+    left: 280px;
+    top: -360px;
+    border-radius: 10px;
+}
+.天猫{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 310px;
+    top:-393px;
+    font-size: 20px;
+    color: #ff0036;
+    font-weight: bold;
+}
+.竖线{
+    width: 16px;
+    height: 32px;
+
+    position: relative;
+    left: 395px;
+    top: -425px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.聚划算{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 440px;
+    top:-455px;
+    font-size: 20px;
+    color: #ff0036;
+    font-weight: bold;
+}
+.竖线1{
+    width: 16px;
+    height: 32px;
+    position: relative;
+    left: 540px;
+    top: -490px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.天猫超市{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 572px;
+    top:-520px;
+    font-size: 20px;
+    color: #33c900;
+    font-weight: bold;
+}
+.竖线2{
+    width: 16px;
+    height: 32px;
+    position: relative;
+    color: white;
+    top: -553px;
+    left: 675px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.司法拍卖{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 710px;
+    top:-584px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.竖线3{
+    width: 16px;
+    height: 32px;
+    position: relative;
+    color: white;
+    top: -617px;
+    left: 812px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.猫超享淘卡{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 850px;
+    top:-648px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.竖线4{
+    width: 16px;
+    height: 32px;
+    position: relative;
+    color: white;
+    top: -681px;
+    left: 970px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.淘宝直播{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 1010px;
+    top:-711px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.竖线5{
+    width: 16px;
+    height: 32px;
+    position: relative;
+    color: white;
+    top: -745px;
+    left: 1110px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.飞猪旅行{
+    width: 112px;
+    height: 32px;
+    position: relative;
+    left: 1145px;
+    top:-775px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.分类图片1{
+    width: 240px;
+    height: 336px;
+    background-color: #ff5000;
+    position: relative;
+    left: 360px;
+    top: -320px;
+    background: url("../image/分类图片1.png");
+}
+.分类图片2{
+    width: 550px;
+    height: 155px;
+    background: #ff5000;
+    position: relative;
+    left: 615px;
+    top: -655px;
+    background: url("../image/分类图片2.jpg");
+}
+.淘工厂{
+    width: 496px;
+    height: 48px;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    left: -180px;
+
+}
+.下图1{
+    width: 260px;
+    height: 160px;
+    background: #ff5000;
+    position: relative;
+    top: -630px;
+    left: 615px;
+    background: url("../image/下图1.jpg");
+}
+.下图2{
+    width: 260px;
+    height: 160px;
+    background: #ff5000;
+    position: relative;
+    top: -790px;
+    left: 900px;
+    background: url("../image/下图2.jpg");
+}
+.潮点数码{
+    width: 140px;
+    height: 48px;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+.数码产品{
+    width: 140px;
+    height: 48px;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+.右1{
+    width: 240px;
+    height: 160px;
+    background: #ff5000;
+    position: relative;
+    top: -1130px;
+    left: 1185px;
+    background:url("../image/右1.jpg");
+}
+.右2{
+    width: 240px;
+    height: 160px;
+    background: #ff5000;
+    position: relative;
+    top: -1110px;
+    left: 1185px;
+    background: url("../image/右2.jpg");
+}
+.右1价格{
+    width: 100px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 120px;
+    left: 50px;
+}
+.右2价格{
+    width: 100px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 120px;
+    left: 50px;
+}
+.潮点数码价格{
+    width: 150px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 65px;
+    left: 50px;
+}
+.数码产品价格{
+    width: 150px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    top: 65px;
+    left: 50px;
+}
+.淘工厂价格{
+    width: 150px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    position: relative;
+    top: 75px;
+    left: 160px;
+}
+.登录页面{
+    width: 240px;
+    height: 384px;
+    background: white;
+    position: relative;
+    top: -1493px;
+    left: 1450px;
+}
+.登录头像{
+    width: 240px;
+    height: 112px;
+
+}
+.头像{
+    width: 60px;
+    height: 60px;
+    background: black;
+    position: relative;
+    top: 12px;
+    left: 85px;
+    background: url("../image/头像.jpg");
+    border-radius: 50px;
+}
+.上午好{
+    width: 110px;
+    height: 50px;
+    position: relative;
+    left: 88px;
+    top: 15px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.登录{
+    width: 72px;
+    height: 48px;
+    background: #ff5000;
+    border-radius: 15px;
+}
+.注册{
+    width: 72px;
+    height: 48px;
+    background-color: #FEB308;
+    border-radius: 15px;
+    position: relative;
+    top: -47px;
+    left: 80px;
+}
+.开店{
+    width: 72px;
+    height: 48px;
+    background: #F4F6F8;
+    border-radius: 15px;
+    position: relative;
+    top: -95px;
+    left: 160px;
+}
+.登录文字{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    left: 12px;
+    top: 8px;
+}
+.注册文字{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    font-size: 23px;
+    font-weight: bold;
+    color: white;
+    left: 12px;
+    top: 8px;
+}
+.开店文字{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    font-size: 23px;
+    font-weight: bold;
+    color: black;
+    left: 12px;
+    top: 8px;
+}
+.宝贝收藏{
+    width: 60px;
+    height: 48px;
+    position: relative;
+    top: -1715px;
+    left: 1440px;
+    font-size: 50px;
+}
+.买过的店{
+    width: 60px;
+    height: 48px;
+    position: relative;
+    top: -1762px;
+    left: 1508px;
+    font-size: 50px;
+
+}.收藏的店{
+     width: 60px;
+     height: 48px;
+     position: relative;
+     top: -1810px;
+     left: 1580px;
+     font-size: 50px;
+
+ }
+.我的足迹{
+    width: 60px;
+    height: 48px;
+    position: relative;
+    top: -1857px;
+    left: 1647px;
+    font-size: 50px;
+}
+.登录下方版块{
+    width: 240px;
+    height: 134px;
+    position: relative;
+    top: -1830px;
+    left: 1450px;
+}
+.阿里巴巴{
+    width: 32px;
+    height: 32px;
+    background: url("../image/阿里巴巴.png");
+    position: relative;
+    top: 10px;
+}
+.阿里巴巴1{
+    width: 32px;
+    height: 32px;
+    background: url("../image/阿里巴巴.png");
+    position: relative;
+    top: -22px;
+    left: 55px;
+}
+.阿里巴巴2{
+    width: 32px;
+    height: 32px;
+    background: url("../image/阿里巴巴.png");
+    position: relative;
+    top: -54px;
+    left: 120px;
+}
+.阿里巴巴3{
+    width: 32px;
+    height: 32px;
+    background: url("../image/阿里巴巴.png");
+    position: relative;
+    top: -86px;
+    left: 190px;
+}
+.字{
+    width: 48px;
+    height: 18px;
+    position: relative;
+    top: 34px;
+    right: 3px;
+}
+.菜鸟{
+    width: 32px;
+    height: 32px;
+    background: url("../image/菜鸟.png");
+    position: relative;
+    top:-40px;
+
+}
+.菜鸟1{
+    width: 32px;
+    height: 32px;
+    background: url("../image/菜鸟.png");
+    position: relative;
+    top: -72px;
+    left: 55px;
+}
+.菜鸟2{
+    width: 32px;
+    height: 32px;
+    background: url("../image/菜鸟.png");
+    position: relative;
+    top: -102px;
+    left: 120px;
+}
+.菜鸟3{
+    width: 32px;
+    height: 32px;
+    background: url("../image/菜鸟.png");
+    position: relative;
+    top: -135px;
+    left: 190px;
+}
+.字1{
+    position: relative;
+    top: 35px;
+
+}
+.下列大主板{
+    width: 1670px;
+    height: 1650px;
+    background: white;
+    position: relative;
+    left: 75px;
+    top: -1770px;
+    border-radius: 15px;
+}
+.猜你喜欢{
+    width: 1670px;
+    height: 50px;
+    border-radius: 15px;
+}
+.猜你喜欢字{
+    height: 60px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.分版块1{
+    width: 1670px;
+    height: 375px;
+    position: absolute;
+    top: 55px;
+    border-radius: 15px;
+}
+.分版块2{
+    width: 1670px;
+    height: 375px;
+    position: absolute;
+    top: 460px;
+    border-radius: 15px;
+}
+.分版块3{
+    width: 1670px;
+    height: 375px;
+    position: absolute;
+    top: 855px;
+    border-radius: 15px;
+}
+.分版块4{
+    width: 1670px;
+    height: 375px;
+    position: absolute;
+    top: 1260px;
+    border-radius: 15px;
+}
+
+.图片1{
+    width: 246px;
+    height: 374px;
+    position: relative;
+    left: 20px;
+    border-radius: 15px;
+
+}
+.图片2{
+    width: 246px;
+    height: 374px;
+    position: relative;
+    left: 276px;
+    top: -374px;
+    border-radius: 15px;
+}
+.图片3{
+    width: 246px;
+    height: 374px;
+    position: relative;
+    left: 535px;
+    top: -748px;
+    border-radius: 15px;
+}
+.图片4{
+    width: 246px;
+    height: 374px;
+    position: relative;
+    left: 800px;
+    top: -1122px;
+    border-radius: 15px;
+}
+.图片5{
+    width: 246px;
+    height: 374px;
+    position: relative;
+    left: 1070px;
+    top: -1496px;
+    border-radius: 15px;
+}
+.图片6{
+    width: 246px;
+    height: 374px;
+    position: relative;
+    left: 1336px;
+    top: -1870px;
+    border-radius: 15px;
+}
+.图片中照片1 {
+    width: 246px;
+    height: 248px;
+    background: black;
+    background: url("../image/版块图片1.png");
+
+}
+.图片中照片2 {
+    width: 246px;
+    height: 248px;
+    background: black;
+    background: url("../image/版块图片2.png");
+
+}
+.图片中照片3 {
+    width: 246px;
+    height: 248px;
+    background: black;
+    background: url("../image/版块图片3.png");
+
+}
+.图片中照片4 {
+    width: 246px;
+    height: 248px;
+    background: black;
+    background: url("../image/版块图片4.png");
+
+}
+.图片中照片5 {
+    width: 246px;
+    height: 248px;
+    background: black;
+    background: url("../image/版块图片5.png");
+
+}
+.图片中照片6 {
+    width: 246px;
+    height: 248px;
+    background: black;
+    background: url("../image/版块图片6.png");
+
+}
+.图片中文字1{
+    width: 246px;
+    height:80px;
+    position: absolute;
+    top: 255px;
+}
+.图片中文字2{
+    width: 246px;
+    height:80px;
+    position: absolute;
+    top: 255px;
+}
+.图片中文字3{
+    width: 246px;
+    height:80px;
+    position: absolute;
+    top: 255px;
+}
+.图片中文字4{
+    width: 246px;
+    height:80px;
+    position: absolute;
+    top: 255px;
+}
+.图片中文字5{
+    width: 246px;
+    height:80px;
+    position: absolute;
+    top: 255px;
+}
+.图片中文字6{
+    width: 246px;
+    height:80px;
+    position: absolute;
+    top: 255px;
+}
+.图片中价格{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.图片中价格1{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.图片中价格2{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.图片中价格3{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.图片中价格4{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.图片中价格5{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.图片中价格6{
+    width: 246px;
+    height:40px;
+    background: white;
+    position: absolute;
+    top: 325px;
+}
+.右侧栏{
+    width: 66px;
+    height: 338px;
+    background: white;
+    position: fixed; /* 将绝对定位改为固定定位 */
+    right: 0; /* 从右侧开始，不需要负值 */
+    top: 50%; /* 可以选择从顶部开始的位置，例如这里选择50%然后使用transform垂直居中 */
+    transform: translateY(-50%); /* 垂直居中 */
+    border-radius: 15px 0 0 15px; /* 可能需要调整圆角以适应新的布局 */
+    z-index: 999; /* 可能需要增加z-index以确保元素在其它内容之上 */
+}
+.右侧栏图标1{
+    width: 30px;
+    height: 30px;
+    background: #ff5000;
+    position: absolute;
+    right:16px;
+    top: 18px;
+    background: url("../image/联系客服_.png");
+}
+.右侧栏图标2{
+    width: 30px;
+    height: 30px;
+    background: #ff5000;
+    position: absolute;
+    right:16px;
+    top: 80px;
+    background: url("../image/购物车.png");
+}
+.右侧栏图标3{
+    width: 30px;
+    height: 30px;
+    background: #ff5000;
+    position: absolute;
+    right:16px;
+    top: 148px;
+    background: url("../image/客服.png");
+}
+.右侧栏图标4{
+    width: 30px;
+    height: 30px;
+    background: #ff5000;
+    position: absolute;
+    right:16px;
+    top: 216px;
+    background: url("../image/书法.png");
+}
+.右侧栏图标5{
+    width: 30px;
+    height: 30px;
+    background: #ff5000;
+    position: absolute;
+    right:16px;
+    top: 284px;
+    background: url("../image/感叹.png");
+}
+.右侧栏图标文字1{
+    width: 70px;
+    height: 17px;
+    position: absolute;
+    right:-2px;
+    top: 52px;
+
+}
+.右侧栏图标文字2{
+    width: 70px;
+    height: 17px;
+    position: absolute;
+    right:-2px;
+    top: 110px;
+}
+.右侧栏图标文字3{
+    width: 70px;
+    height: 17px;
+    position: absolute;
+    right:-2px;
+    top: 178px;
+}
+.右侧栏图标文字4{
+    width: 70px;
+    height: 17px;
+    position: absolute;
+    right:-2px;
+    top: 246px;
+}
+.右侧栏图标文字5{
+    width: 70px;
+    height: 17px;
+    position: absolute;
+    right:-2px;
+    top: 314px;
+}
+.天猫字体1{
+    color: #ff0036;
+    font-size: 16px;
+    font-weight: bold;
+}
+.字体{
+    font-weight: bold;
+    font-size: 18px;
+}
+.价格字体{
+    font-size: 25px;
+    color: #ff5000;
+    font-weight: bold;
+    position: absolute;
+    top: 5px;
+    left: 2px;
+}
+.价格字体2{
+position: absolute;
+}
+.购买框{
+    width: 150px;
+    height: 25px;
+    background: white;
+    position: absolute;
+    top: 338px;
+    left: 89px;
+}
+.全部面积{
+    width:1600px ;
+}
+.底部版权{
+    width: 110%;
+    height: 300px;
+    background: #375687;
+    position: absolute;
+    top: 1650px;
+    left: -80px;
+}
+.底部左侧{
+    width: 20%;
+    height: 300px;
+    background: #375687;
+    position: absolute;
+    left: 150px;
+}
+.关于我们{
+    width: 50%;
+    height: 40px;
+    background:#375687;
+    position: absolute;
+    top: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.关于我们介绍{
+    width: 80%;
+    height: 40px;
+    background:#375687;
+    position: absolute;
+    font-size: 12px;
+    top: 65px;
+    color: white;
+
+}
+.声明{
+    width: 50%;
+    height: 40px;
+    background:#375687;
+    position: absolute;
+    top: 108px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.声明介绍{
+    width: 80%;
+    height: 100px;
+    background:#375687;
+    position: absolute;
+    font-size: 12px;
+    top: 138px;
+    color: white;
+
+}
+.底部中间{
+    width: 12%;
+    height: 300px;
+    position: absolute;
+    left: 580px;
+}
+.底部中间 a {
+    text-decoration: none;
+}
+.友情链接{
+    width: 50%;
+    height: 40px;
+    background:#375687;
+    position: absolute;
+    top: 30px;
+    left: 25%;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.链接1{
+    width: 59%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 80px;
+    left: 25%;
+    color: white;
+}
+.链接2{
+    width: 59%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 110px;
+    left: 25%;
+    color: white;
+}
+.链接3{
+    width: 59%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 140px;
+    left: 25%;
+    color: white;
+}
+.链接4{
+    width: 59%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 170px;
+    left: 25%;
+    color: white;
+}
+.链接5{
+    width: 59%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 200px;
+    left: 25%;
+    color: white;
+}
+.底部中间1{
+    width: 10%;
+    height: 300px;
+    position: absolute;
+    left: 940px;
+}
+.底部右侧{
+    width: 12%;
+    height: 300px;
+    position: absolute;
+    left: 1200px;
+}
+
+.价值观{
+    width: 50%;
+    height: 40px;
+    background:#375687;
+    position: absolute;
+    top: 30px;
+    left: 25%;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.价值1{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 80px;
+    left: 25%;
+    color: white;
+}
+.价值2{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 110px;
+    left: 25%;
+    color: white;
+}
+.价值3{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 140px;
+    left: 25%;
+    color: white;
+}
+.价值4{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 170px;
+    left: 25%;
+    color: white;
+}
+.价值5{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 200px;
+    left: 25%;
+    color: white;
+}
+.价值6{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 230px;
+    left: 25%;
+    color: white;
+}
+.联系{
+    width: 50%;
+    height: 40px;
+    background:#375687;
+    position: absolute;
+    top: 30px;
+    left: 25%;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.联系1{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 80px;
+    left: 25%;
+    color: white;
+}
+.联系2{
+    width: 60%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 110px;
+    left: 25%;
+    color: white;
+}
+.联系3{
+    width: 50%;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 140px;
+    left: 25%;
+    color: white;
+}
+.联系1图标{
+    width: 20px;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 80px;
+    left: 15%;
+    color: white;
+    background: url("../image/地址.png");
+}
+.联系2图标{
+    width: 20px;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 110px;
+    left: 15%;
+    color: white;
+    background: url("../image/人.png");
+}
+.联系3图标{
+    width: 20px;
+    height: 20px;
+    background: #375687;
+    position: absolute;
+    top: 140px;
+    left: 15%;
+    color: white;
+    background: url("../image/邮箱.png");
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.全局高度{
+    height: 2000px;
+}
